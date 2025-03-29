@@ -10,7 +10,7 @@ Sales Recording: The system logs all sales transactions, capturing product detai
 
 User Roles: The application includes different access levels, such as admin, sales personnel, and stock managers, ensuring role-based permissions and security.
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/Gq94EA1Ae54)
 
 # Relational Database
 
